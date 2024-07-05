@@ -1,0 +1,782 @@
+{
+  "fields": {
+    "province": "Kalimantan Selatan",
+    "selection_type": "Reguler",
+    "school": {
+      "name": "SMK NEGERI 5 BANJARMASIN",
+      "code": "30304286"
+    },
+    "program": "Teknik Elektronika",
+    "data_status": "Sementara",
+    "selection_area": "Prov. Kalimantan Selatan",
+    "result_date": "26 Juni 2024 16:05 WITA",
+    "selection_date": "24-26 Jun 2024",
+    "candidates": [
+      {
+        "no_urut": "1",
+        "no_daftar": "486100480164662",
+        "name": "MUHAMMAD RIJAL AHRORI",
+        "pilihan": "1",
+        "nilai_akhir": "92.71",
+        "usia": "15 th 1 bl 1",
+        "waktu": "25 Jun 10:12"
+      },
+      {
+        "no_urut": "2",
+        "no_daftar": "486100480288422",
+        "name": "AZMI RHIDONI",
+        "pilihan": "1",
+        "nilai_akhir": "88.72",
+        "usia": "14 th 9 bl 7",
+        "waktu": "26 Jun 12:35"
+      },
+      {
+        "no_urut": "3",
+        "no_daftar": "486100480028381",
+        "name": "AHMAD IRFANI",
+        "pilihan": "1",
+        "nilai_akhir": "86.13",
+        "usia": "15 th 4 bl 1",
+        "waktu": "24 Jun 09:04"
+      },
+      {
+        "no_urut": "4",
+        "no_daftar": "486100480026081",
+        "name": "MUHAMMAD HAFIZ FIADI",
+        "pilihan": "1",
+        "nilai_akhir": "85.09",
+        "usia": "15th 7 bl 17",
+        "waktu": "24 Jun 09:53"
+      },
+      {
+        "no_urut": "5",
+        "no_daftar": "486100480300181",
+        "name": "SALWAA MAULIDIANI",
+        "pilihan": "1",
+        "nilai_akhir": "85.03",
+        "usia": "15 th 4 bl 2",
+        "waktu": "26 Jun 14:36"
+      },
+      {
+        "no_urut": "6",
+        "no_daftar": "486100480287731",
+        "name": "AHMAD HAFIS",
+        "pilihan": "1",
+        "nilai_akhir": "84.98",
+        "usia": "14 th 11 bl 18",
+        "waktu": "26 Jun 12:24"
+      },
+      {
+        "no_urut": "7",
+        "no_daftar": "486100480284811",
+        "name": "AHMAD SHALIHIN",
+        "pilihan": "1",
+        "nilai_akhir": "84.20",
+        "usia": "15 th 5 bl 24",
+        "waktu": "26 Jun 12:02"
+      },
+      {
+        "no_urut": "8",
+        "no_daftar": "486100480204711",
+        "name": "SATRIA DWI RAMADHAN",
+        "pilihan": "1",
+        "nilai_akhir": "84.06",
+        "usia": "15 th 9 bl 8",
+        "waktu": "25 Jun 12:31"
+      },
+      {
+        "no_urut": "9",
+        "no_daftar": "486100480256891",
+        "name": "GERALDY",
+        "pilihan": "1",
+        "nilai_akhir": "83.74",
+        "usia": "15 th 3 bl 6",
+        "waktu": "26 Jun 10:19"
+      },
+      {
+        "no_urut": "10",
+        "no_daftar": "486100480275461",
+        "name": "RATU AULIA SARI",
+        "pilihan": "1",
+        "nilai_akhir": "83.63",
+        "usia": "15 th 8 bl 12",
+        "waktu": "26 Jun 11:21"
+      },
+      {
+        "no_urut": "11",
+        "no_daftar": "486100480209491",
+        "nama": "MUHAMMAD MAULANA",
+        "pilihan": "1",
+        "nilai_akhir": "83.62",
+        "usia": "15 th 7 bl 14",
+        "waktu": "25 Ju hr 12:43"
+      },
+      {
+        "no_urut": "12 23",
+        "no_daftar": "486100480138361",
+        "nama": "DEWI PRATIWI",
+        "pilihan": "1",
+        "nilai_akhir": "83.61",
+        "usia": "15 th 2 bl 1",
+        "waktu": "25 Ju hr 09:11"
+      },
+      {
+        "no_urut": "13",
+        "no_daftar": "486100480211252",
+        "nama": "AHMAD NABIL SUPIANOR",
+        "pilihan": "1",
+        "nilai_akhir": "83.56",
+        "usia": "15 th 5 bl 23.",
+        "waktu": "25 Ju hr 14:11"
+      },
+      {
+        "no_urut": "14 14",
+        "no_daftar": "486100480299661",
+        "nama": "ATARID",
+        "pilihan": "1",
+        "nilai_akhir": "83.54",
+        "usia": "15 th 9 bl 22",
+        "waktu": "26 Ju hr 15:20"
+      },
+      {
+        "no_urut": "15",
+        "no_daftar": "486100480297702",
+        "nama": "MUHAMMAD NAZRIL MAULANA",
+        "pilihan": "1",
+        "nilai_akhir": "83.46",
+        "usia": "15 th 3 bl 23",
+        "waktu": "26 Ju hr 13:36"
+      },
+      {
+        "no_urut": "16 16",
+        "no_daftar": "486100480262151",
+        "nama": "MUHAMMAD HAFIZH",
+        "pilihan": "1",
+        "nilai_akhir": "83.29",
+        "usia": "15 th 2 bl 4",
+        "waktu": "26 Ju hr 10:51"
+      },
+      {
+        "no_urut": "17 75",
+        "no_daftar": "486100480300161",
+        "nama": "MUHAMMAD RADIANUR",
+        "pilihan": "1",
+        "nilai_akhir": "82.96",
+        "usia": "15 th 7 bl 11",
+        "waktu": "26 Ju hr 14:33"
+      },
+      {
+        "no_urut": "18",
+        "no_daftar": "486100480272211",
+        "nama": "AHMAD FIKRI",
+        "pilihan": "1",
+        "nilai_akhir": "82.80",
+        "usia": "15 th 3 bl 7",
+        "waktu": "26 Ju hr 10:55"
+      },
+      {
+        "no_urut": "19",
+        "no_daftar": "486100480282781",
+        "nama": "M. RIZQY RAMADHAN",
+        "pilihan": "1",
+        "nilai_akhir": "82.78",
+        "usia": "15 th 9 bl 23",
+        "waktu": "26 Ju hr 11:41"
+      },
+      {
+        "no_urut": "20",
+        "no_daftar": "486100480295131",
+        "nama": "M. RIDHONOORSYABAN",
+        "pilihan": "1",
+        "nilai_akhir": "82.54",
+        "usia": "14 th 11 bl 13:14",
+        "waktu": "26 Ju"
+      },
+      {
+        "no_urut": "21 21",
+        "no_daftar": "486100480276421",
+        "nama": "AHMAD NOEVAL BILL HAQQI",
+        "pilihan": "1",
+        "nilai_akhir": "82.46",
+        "usia": "14 th 10 bl 30 hr",
+        "waktu": "12:23"
+      },
+      {
+        "no_urut": "22",
+        "no_daftar": "486100480204431",
+        "nama": "KELVIN",
+        "pilihan": "1",
+        "nilai_akhir": "82.35",
+        "usia": "15 th 7 bl 25",
+        "waktu": "12:09"
+      },
+      {
+        "no_urut": "23",
+        "no_daftar": "486100480182501",
+        "nama": "M. RAHMAN QALBI",
+        "pilihan": "1",
+        "nilai_akhir": "82.29",
+        "usia": "15 th 9 bl 25",
+        "waktu": "10:49"
+      },
+      {
+        "no_urut": "24",
+        "no_daftar": "486100480172111",
+        "nama": "MUHAMMAD ABDUL RASYID",
+        "pilihan": "1",
+        "nilai_akhir": "82.26",
+        "usia": "16 th 4 bl 6",
+        "waktu": "10:28"
+      },
+      {
+        "no_urut": "25",
+        "no_daftar": "486100480290251",
+        "nama": "M. REYHAN RAMADHAN",
+        "pilihan": "1",
+        "nilai_akhir": "82.22",
+        "usia": "14 th 10 bl 4",
+        "waktu": "13:01"
+      },
+      {
+        "no_urut": "26",
+        "no_daftar": "486100480215451",
+        "nama": "MUHAMMAD ISMAIL",
+        "pilihan": "1",
+        "nilai_akhir": "82.11",
+        "usia": "15 th 13 hr 14:36",
+        "waktu": ""
+      },
+      {
+        "no_urut": "27",
+        "no_daftar": "486100480077951",
+        "nama": "YASA MAULANA",
+        "pilihan": "1",
+        "nilai_akhir": "82.06",
+        "usia": "15 th 3 bl 12",
+        "waktu": "24 Ju hr 11:31"
+      },
+      {
+        "no_urut": "28",
+        "no_daftar": "486100480298691",
+        "nama": "MUHAMMAD RIZAL",
+        "pilihan": "1",
+        "nilai_akhir": "82.02",
+        "usia": "15 th 2 bl 11",
+        "waktu": "26 Ju hr 14:02"
+      },
+      {
+        "no_urut": "29",
+        "no_daftar": "486100480297811",
+        "nama": "ASNIANUR HASIDAH",
+        "pilihan": "1",
+        "nilai_akhir": "81.94",
+        "usia": "16 th 9 bl 11",
+        "waktu": "26 Ju hr 13:47"
+      },
+      {
+        "no_urut": "30",
+        "no_daftar": "486100480078531",
+        "nama": "M. ISNOR FAHRIYANTO",
+        "pilihan": "1",
+        "nilai_akhir": "81.90",
+        "usia": "15 th 7 bl 15",
+        "waktu": "24 Ju hr 10:28"
+      },
+      {
+        "no_urut": "31",
+        "no_daftar": "486100480297353",
+        "nama": "M. FAHMINUR",
+        "pilihan": "1",
+        "nilai_akhir": "81.86",
+        "usia": "15 th 8 bl 26",
+        "waktu": "26 Ju hr 15:35"
+      },
+      {
+        "no_urut": "32",
+        "no_daftar": "486100480151451",
+        "nama": "AHMAD ZIKRI FADILLAH",
+        "pilihan": "1",
+        "nilai_akhir": "81.66",
+        "usia": "15 th 8 bl 28",
+        "waktu": "25 Ju hr 09:40"
+      },
+      {
+        "no_urut": "33",
+        "no_daftar": "486100480205631",
+        "nama": "MUHAMMAD RIZKY MAULANA",
+        "pilihan": "1",
+        "nilai_akhir": "81.56",
+        "usia": "14 th 11 bl 5",
+        "waktu": "25 Ju hr 12:16"
+      },
+      {
+        "no_urut": "34",
+        "no_daftar": "486100480288521",
+        "nama": "SAYID MUHAMMAD SABDA",
+        "pilihan": "1",
+        "nilai_akhir": "81.53",
+        "usia": "15 th 10 bl 3",
+        "waktu": "26 Ju hr 12:36"
+      },
+      {
+        "no_urut": "35",
+        "no_daftar": "486100480272661",
+        "nama": "MUHAMMAD NAZHER AQILA ISLAMI",
+        "pilihan": "",
+        "nilai_akhir": "81.41",
+        "usia": "15 th 6 bl 22",
+        "waktu": "26 Ju hr 10: 5€"
+      },
+      {
+        "no_urut": "36",
+        "no_daftar": "486100480146621",
+        "nama": "M. SYAWIN MAULANA",
+        "pilihan": "1",
+        "nilai_akhir": "81.35",
+        "usia": "15 th 8 bl 24",
+        "waktu": "09:29"
+      },
+      {
+        "no_urut": "37",
+        "no_daftar": "486100480266881",
+        "nama": "SITI NABILA",
+        "pilihan": "1",
+        "nilai_akhir": "81.31",
+        "usia": "15 th 2 bl 2",
+        "waktu": "26 Ju hr 10:22"
+      },
+      {
+        "no_urut": "38",
+        "no_daftar": "486100480300261",
+        "nama": "MUHAMMAD FADLI",
+        "pilihan": "1",
+        "nilai_akhir": "81.30",
+        "usia": "15 th 10 bl",
+        "waktu": "26 Ju hr 12:14"
+      },
+      {
+        "no_urut": "39",
+        "no_daftar": "486100480249001",
+        "nama": "SOFIYAL QOLBI",
+        "pilihan": "1",
+        "nilai_akhir": "81.29",
+        "usia": "15 th 7 bl 21",
+        "waktu": "09:23"
+      },
+      {
+        "no_urut": "40",
+        "no_daftar": "486100480297911",
+        "nama": "M. AL FATHIR RAHMAN",
+        "pilihan": "1",
+        "nilai_akhir": "81.20",
+        "usia": "16 th 21 hr",
+        "waktu": "26 Ju hr 14:42"
+      },
+      {
+        "no_urut": "41 11",
+        "no_daftar": "486100480291831",
+        "nama": "RIZKI GUNTUR APRIANTO",
+        "pilihan": "1",
+        "nilai_akhir": "81.20",
+        "usia": "15 th 2 bl 7",
+        "waktu": "26 Ju hr 14:20"
+      },
+      {
+        "no_urut": "42 20",
+        "no_daftar": "486100480288441",
+        "nama": "MUHAMMAD RAHMAN ANSHARI",
+        "pilihan": "1",
+        "nilai_akhir": "81.11",
+        "usia": "16 th 1 bl 30",
+        "waktu": "26 Ju hr 12:34"
+      },
+      {
+        "no_urut": "43 23",
+        "no_daftar": "486100480295901",
+        "nama": "SHABRINA HALWA",
+        "pilihan": "1",
+        "nilai_akhir": "81.06",
+        "usia": "15 th 9 bl 6",
+        "waktu": "26 Ju hr 15:20"
+      },
+      {
+        "no_urut": "44",
+        "no_daftar": "486100480020611",
+        "nama": "MUHAMMAD RIDWAN",
+        "pilihan": "1",
+        "nilai_akhir": "81.00",
+        "usia": "15 th 21 hr",
+        "waktu": "24 Ju hr 09:22"
+      },
+      {
+        "no_urut": "45",
+        "no_daftar": "486100480083681",
+        "nama": "M. TAUFIKKUR RAHIM",
+        "pilihan": "1",
+        "nilai_akhir": "80.95",
+        "usia": "17 th 1 bl 11",
+        "waktu": "24 Ju hr 13:10"
+      },
+      {
+        "no_urut": "46",
+        "no_daftar": "486100480283411",
+        "nama": "ANDINI DWIYANTI",
+        "pilihan": "1",
+        "nilai_akhir": "80.95",
+        "usia": "15 th 9 hr",
+        "waktu": "26 Ju hr 11:48"
+      },
+      {
+        "no_urut": "47",
+        "no_daftar": "486100480300281",
+        "nama": "YASIN MUARIF",
+        "pilihan": "1",
+        "nilai_akhir": "80.89",
+        "usia": "15 th 5 bl 21 26 Ju hr 14:40"
+      },
+      {
+        "no_urut": "48",
+        "no_daftar": "486100480299861",
+        "nama": "MUHAMMAD RAFI BAIDHAWI",
+        "pilihan": "1",
+        "nilai_akhir": "80.88",
+        "usia": "15 th 10 bl 26 Ju 12 hr 14:33"
+      },
+      {
+        "no_urut": "49",
+        "no_daftar": "486100480250001",
+        "nama": "MUHAMAD ARIFIN",
+        "pilihan": "1",
+        "nilai_akhir": "80.86",
+        "usia": "15 th 7 bl 16 26 Ju hr 09:29"
+      },
+      {
+        "no_urut": "50",
+        "no_daftar": "486100480076801",
+        "nama": "GUSTI MUHAMMAD FAHSYI",
+        "pilihan": "1",
+        "nilai_akhir": "80.84",
+        "usia": "15 th 5 bl 4 24 Ju hr 12:00"
+      },
+      {
+        "no_urut": "51",
+        "no_daftar": "486100480291201",
+        "nama": "SYAIRI",
+        "pilihan": "1",
+        "nilai_akhir": "80.80",
+        "usia": "16 th 1 bl 12 26 Ju hr 13:01"
+      },
+      {
+        "no_urut": "52 62",
+        "no_daftar": "486100480279091",
+        "nama": "M. RAIHAN ADHA",
+        "pilihan": "1",
+        "nilai_akhir": "80.69",
+        "usia": "15 th 6 bl 29 26 Ju hr 11:23"
+      },
+      {
+        "no_urut": "53",
+        "no_daftar": "486100480091453",
+        "nama": "M. TAUFIKKUR RAHMAN",
+        "pilihan": "1",
+        "nilai_akhir": "80.66",
+        "usia": "17 th 1 bl 11 24 Ju hr 13:58"
+      },
+      {
+        "no_urut": "54",
+        "no_daftar": "486100480289981",
+        "nama": "AKHMAT FADILLAH",
+        "pilihan": "1",
+        "nilai_akhir": "80.62",
+        "usia": "15 th 7 bl 5 26 Ju hr 13:50"
+      },
+      {
+        "no_urut": "55",
+        "no_daftar": "486100480290891",
+        "nama": "BEZALEEL TITUS CAHYA",
+        "pilihan": "1",
+        "nilai_akhir": "80.60",
+        "usia": "16 th 8 hr 26 Ju 12:55"
+      },
+      {
+        "no_urut": "56",
+        "no_daftar": "486100480284971",
+        "nama": "ISRA AKBAR",
+        "pilihan": "1",
+        "nilai_akhir": "80.58",
+        "usia": "17 th 26 Ju 12:31"
+      },
+      {
+        "no_urut": "57",
+        "no_daftar": "486100480149111",
+        "nama": "MUHAMMAD BAYHAKY",
+        "pilihan": "1",
+        "nilai_akhir": "80.55",
+        "usia": "15 th 2 hr 25 Ju 09:44"
+      },
+      {
+        "no_urut": "58",
+        "no_daftar": "486100480248741",
+        "nama": "MONALISA",
+        "pilihan": "1",
+        "nilai_akhir": "80.51",
+        "usia": "15 th 10 bl 30 hr 26 Ju 09:26"
+      },
+      {
+        "no_urut": "486100480297921",
+        "no_daftar": "486100480297921",
+        "nama": "PADIEL MUHAMMAD",
+        "pilihan": "1",
+        "nilai_akhir": "80.48",
+        "usia": "15 th 7 bl 20 26 Ju hr 14:00"
+      },
+      {
+        "no_urut": "60",
+        "no_daftar": "486100480292053",
+        "nama": "MUHAMMAD YUSUP",
+        "pilihan": "1",
+        "nilai_akhir": "80.40",
+        "usia": "15 th 3 bl 22 26 Ju hr 13:08"
+      },
+      {
+        "no_urut": "61",
+        "no_daftar": "486100480258481",
+        "nama": "M. AGUS SALIM",
+        "pilihan": "1",
+        "nilai_akhir": "80.38",
+        "usia": "15 th 10 bl 6 26 Ju hr 10:01"
+      },
+      {
+        "no_urut": "62",
+        "no_daftar": "486100480251171",
+        "nama": "ARYA FARREL",
+        "pilihan": "1",
+        "nilai_akhir": "80.38",
+        "usia": "15 th 9 bl 15 26 Ju hr 09:42"
+      },
+      {
+        "no_urut": "63",
+        "no_daftar": "486100480246651",
+        "nama": "MUHAMMAD FERDY",
+        "pilihan": "1",
+        "nilai_akhir": "80.34",
+        "usia": "15th 6 bl 5 26 Ju hr 09:09"
+      },
+      {
+        "no_urut": "64",
+        "no_daftar": "486100480263091",
+        "nama": "MUHAMMAD NANDO FADILLAH",
+        "pilihan": "1",
+        "nilai_akhir": "80.33",
+        "usia": "16th 11 bl 22 hr 26 Ju 10:57"
+      },
+      {
+        "no_urut": "65",
+        "no_daftar": "486100480299001",
+        "nama": "M. RIJAL",
+        "pilihan": "1",
+        "nilai_akhir": "80.20",
+        "usia": "17 th 10 bl 26 hr 14:28"
+      },
+      {
+        "no_urut": "66",
+        "no_daftar": "486100480298261",
+        "nama": "MUHAMMAD NABIL",
+        "pilihan": "1",
+        "nilai_akhir": "80.20",
+        "usia": "14 th 7 bl 26 Ju 13:46"
+      },
+      {
+        "no_urut": "67",
+        "no_daftar": "486100480290871",
+        "nama": "AHMAD RAMADHAN",
+        "pilihan": "1",
+        "nilai_akhir": "80.12",
+        "usia": "15 th 9 bl 11 hr 13:01"
+      },
+      {
+        "no_urut": "68",
+        "no_daftar": "486100480274071",
+        "nama": "IQBAL HAFIZ",
+        "pilihan": "1",
+        "nilai_akhir": "80.11",
+        "usia": "15 th 6 bl 2 hr 11:00"
+      },
+      {
+        "no_urut": "69",
+        "no_daftar": "486100480219441",
+        "nama": "MUHAMMAD NAZAR",
+        "pilihan": "1",
+        "nilai_akhir": "80.06",
+        "usia": "15 th 3 bl 25 Ju 15:54"
+      },
+      {
+        "no_urut": "70",
+        "no_daftar": "486100480266241",
+        "nama": "RIYANDI ALAMIN",
+        "pilihan": "1",
+        "nilai_akhir": "80.00",
+        "usia": "17 th 4 bl 6 hr 10:20"
+      },
+      {
+        "no_urut": "71",
+        "no_daftar": "486100480291061",
+        "nama": "MUHAMMAD RADHIT ZAHRAWAANI",
+        "pilihan": "1",
+        "nilai_akhir": "79.95",
+        "usia": "15 th 10 bl 28 hr 13:12"
+      },
+      {
+        "no_urut": "72",
+        "no_daftar": "486100480299731",
+        "nama": "ALDO SAPUTRA",
+        "pilihan": "1",
+        "nilai_akhir": "79.85",
+        "usia": "16 th 5 bl 26 hr 14:39"
+      },
+      {
+        "no_urut": "73",
+        "no_daftar": "486100480293441",
+        "nama": "SUGIAN DIMAZ",
+        "pilihan": "1",
+        "nilai_akhir": "79.82",
+        "usia": "15 th 18 hr 26 Ju 14:30"
+      },
+      {
+        "no_urut": "74",
+        "no_daftar": "486100480264151",
+        "nama": "LUTFI SAPUTRA",
+        "pilihan": "1",
+        "nilai_akhir": "79.81",
+        "usia": "15 th 10 bl 13 hr 10:18"
+      },
+      {
+        "no_urut": "75",
+        "no_daftar": "486100480240331",
+        "nama": "MUHAMMAD AKBAR SUGI PRATAMA",
+        "pilihan": "1",
+        "nilai_akhir": "79.80",
+        "usia": "15 th 7 bl 10 hr 08:29"
+      },
+      {
+        "no_urut": "76",
+        "no_daftar": "486100480286921",
+        "nama": "ILYAS",
+        "pilihan": "1",
+        "nilai_akhir": "79.78",
+        "usia": "17 th 2 bl 12 hr 12:19"
+      },
+      {
+        "no_urut": "77",
+        "no_daftar": "486100480252361",
+        "nama": "ANDI MANDALA PUTRA",
+        "pilihan": "1",
+        "nilai_akhir": "79.66",
+        "usia": "15 th 23 hr 26 Ju 09:53"
+      },
+      {
+        "no_urut": "78",
+        "no_daftar": "486100480253111",
+        "nama": "MUHAMMAD RAFFI FITRI",
+        "pilihan": "1",
+        "nilai_akhir": "79.60",
+        "usia": "15 th 8 bl 30 hr 09:48"
+      },
+      {
+        "no_urut": "79",
+        "no_daftar": "486100480267271",
+        "nama": "FAIRUZ RIDWAN",
+        "pilihan": "1",
+        "nilai_akhir": "79.49",
+        "usia": "15 th 3 bl 14 hr 10:22"
+      },
+      {
+        "no_urut": "80",
+        "no_daftar": "486100480251811",
+        "nama": "RUSMAN NAZARIE",
+        "pilihan": "1",
+        "nilai_akhir": "79.47",
+        "usia": "15 th 9 bl 27 hr 09:49"
+      },
+      {
+        "no_urut": "81",
+        "no_daftar": "486100480273651",
+        "nama": "MUHAMMAD ROBBYANSYAH",
+        "pilihan": "1",
+        "nilai_akhir": "79.47",
+        "usia": "15 th 2 bl 17 hr 12:01"
+      },
+      {
+        "no_urut": "82",
+        "no_daSftar": "486100480280151",
+        "nama": "M. IQBAL FADHIL",
+        "pilihan": "1",
+        "nilai_akhir": "79.42",
+        "usia": "16 th 5 bl 19 hr 11:29"
+      },
+      {
+        "no_urut": "83",
+        "no_daftar": "486100480086531",
+        "nama": "MUHAMMAD PUTRA FITRIADI",
+        "pilihan": "1",
+        "nilai_akhir": "79.41",
+        "usia": "15 th 9 bl",
+        "waktu": "13:07"
+      },
+      {
+        "no_urut": "84",
+        "no_daftar": "486100480296261",
+        "nama": "M. ZAINI",
+        "pilihan": "1",
+        "nilai_akhir": "79.40",
+        "usia": "15th 12 hr",
+        "waktu": "13:15"
+      },
+      {
+        "no_urut": "85",
+        "no_daftar": "486100480163321",
+        "nama": "DELIA AULIKA",
+        "pilihan": "1",
+        "nilai_akhir": "79.36",
+        "usia": "16 th 6 bl 17 hr",
+        "waktu": "10:11"
+      },
+      {
+        "no_urut": "86",
+        "no_daftar": "486100480071581",
+        "nama": "MUHAMMAD GHIYAST ABQARY",
+        "pilihan": "1",
+        "nilai_akhir": "79.24",
+        "usia": "15 th 11 bl 12 hr",
+        "waktu": "09:36"
+      },
+      {
+        "no_urut": "87",
+        "no_daftar": "486100480252011",
+        "nama": "MUHAMMAD FIKRAM",
+        "pilihan": "1",
+        "nilai_akhir": "79.21",
+        "usia": "15 th 6 bl 20 hr",
+        "waktu": "09:43"
+      },
+      {
+        "no_urut": "88",
+        "no_daftar": "486100480271601",
+        "nama": "ALDO SYAPUTRA",
+        "pilihan": "1",
+        "nilai_akhir": "79.20",
+        "usia": "15 th 6 bl 25 hr",
+        "waktu": "11:25"
+      },
+      {
+        "no_urut": "89",
+        "no_daftar": "486100480298911",
+        "nama": "FARDHIYAN INSAN",
+        "pilihan": "1",
+        "nilai_akhir": "79.16",
+        "usia": "15 th 7 bl 22 hr",
+        "waktu": "14:13"
+      }
+    ]
+  }
+}

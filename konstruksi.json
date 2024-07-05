@@ -1,0 +1,296 @@
+{
+  "fields": {
+    "province": "Kalimantan Selatan",
+    "selection_type": "Reguler",
+    "school": {
+      "name": "SMK NEGERI 5 BANJARMASIN",
+      "code": "30304286"
+    },
+    "program": "Teknik Konstruksi dan Perumahan",
+    "data_status": "Sementara",
+    "selection_area": "Prov. Kalimantan Selatan",
+    "result_date": "26 Juni 2024 16:17 WITA",
+    "selection_date": "24-26 Jun 2024",
+    "candidates": [
+      {
+        "no_urut": 1,
+        "no_daftar": "486100480185832",
+        "name": "ABDILLAH",
+        "pilihan": 1,
+        "nilai_akhir": 83.29,
+        "usia": "16 th 3 bl 2",
+        "waktu_pendaftaran": "25 Jun 11:04"
+      },
+      {
+        "no_urut": 2,
+        "no_daftar": "486100480300221",
+        "name": "VIKI RASYA",
+        "pilihan": 1,
+        "nilai_akhir": 81.54,
+        "usia": "16 th 10 bl",
+        "waktu_pendaftaran": "26 Jun 14:51"
+      },
+      {
+        "no_urut": 3,
+        "no_daftar": "486100480290381",
+        "name": "RAYMOND GEORGE",
+        "pilihan": 1,
+        "nilai_akhir": 81.38,
+        "usia": "15 th 10 bl 6",
+        "waktu_pendaftaran": "26 Jun 14:06"
+      },
+      {
+        "no_urut": 4,
+        "no_daftar": "486100480142971",
+        "name": "M. FACHRI AKBAR",
+        "pilihan": 1,
+        "nilai_akhir": 80.90,
+        "usia": "15 th 4 bl 26",
+        "waktu_pendaftaran": "25 Jun 09:16"
+      },
+      {
+        "no_urut": 5,
+        "no_daftar": "486100480271251",
+        "name": "MUHAMMAD ERFAN",
+        "pilihan": 1,
+        "nilai_akhir": 80.87,
+        "usia": "15 th 8 bl 16",
+        "waktu_pendaftaran": "26 Jun 10:44"
+      },
+      {
+        "no_urut": 6,
+        "no_daftar": "486100480161651",
+        "name": "MOH.ALFATHONI",
+        "pilihan": 1,
+        "nilai_akhir": 80.85,
+        "usia": "15 th 1 bl 30",
+        "waktu_pendaftaran": "25 Jun 10:18"
+      },
+      {
+        "no_urut": 7,
+        "no_daftar": "486100480261601",
+        "name": "AKHMAD SYAIDI ALBADALI",
+        "pilihan": 1,
+        "nilai_akhir": 80.83,
+        "usia": "15 th 9 bl 11",
+        "waktu_pendaftaran": "26 Jun 10:07"
+      },
+      {
+        "no_urut": 8,
+        "no_daftar": "486100480244473",
+        "name": "SYEH FIRDAN",
+        "pilihan": 1,
+        "nilai_akhir": 80.81,
+        "usia": "16 th 1 bl 13",
+        "waktu_pendaftaran": "26 Jun 09:00"
+      },
+      {
+        "no_urut": 9,
+        "no_daftar": "486100480290101",
+        "name": "MUHAMMAD RIZALUL FIKRI",
+        "pilihan": 1,
+        "nilai_akhir": 80.49,
+        "usia": "15 th 7 bl 21",
+        "waktu_pendaftaran": "26 Jun 12:42"
+      },
+      {
+        "no_urut": "10 10",
+        "no_daftar": "486100480247021",
+        "name": "ADI PUTRA",
+        "pilihan": 1,
+        "nilai_akhir": 80.44,
+        "usia": "15 th 4 bl 27",
+        "waktu_pendaftaran": "26 Jun 09:08"
+      },
+      {
+        "no_urut": "11",
+        "no_daftar": "486100480243781",
+        "nama": "MUHAMMAD FADHILLAH",
+        "pilihan": "1",
+        "nilai_akhir": "80.40",
+        "usia": "16 th 1 bl 15",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "08:40"
+      },
+      {
+        "no_urut": "12 23",
+        "no_daftar": "486100480030981",
+        "nama": "MUHAMMAD SULTAN",
+        "pilihan": "1",
+        "nilai_akhir": "80.40",
+        "usia": "14 th 9 bl 7",
+        "tanggal_ujian": "24 Juni 2021",
+        "jam_ujian": "09:59"
+      },
+      {
+        "no_urut": "13",
+        "no_daftar": "486100480270432",
+        "nama": "AHMAD ROFFI",
+        "pilihan": "1",
+        "nilai_akhir": "80.36",
+        "usia": "15 th 5 bl 28",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "10:41"
+      },
+      {
+        "no_urut": "14 14",
+        "no_daftar": "486100480211731",
+        "nama": "ANDIKA APRIAN",
+        "pilihan": "1",
+        "nilai_akhir": "80.09",
+        "usia": "16 th 2 bl 10",
+        "tanggal_ujian": "25 Juni 2021",
+        "jam_ujian": "12:32"
+      },
+      {
+        "no_urut": "15",
+        "no_daftar": "486100480252452",
+        "nama": "JAINOORDIN NOOR",
+        "pilihan": "1",
+        "nilai_akhir": "80.08",
+        "usia": "16 th 1 bl 8",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "09:57"
+      },
+      {
+        "no_urut": "16 16",
+        "no_daftar": "486100480280431",
+        "nama": "ADAM RAHMATAN ARIF",
+        "pilihan": "1",
+        "nilai_akhir": "79.83",
+        "usia": "16 th 2 bl 25",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "11:30"
+      },
+      {
+        "no_urut": "75 17",
+        "no_daftar": "486100480240091",
+        "nama": "SITI HADIJAH",
+        "pilihan": "1",
+        "nilai_akhir": "79.80",
+        "usia": "15 th 3 bl 18",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "08:24"
+      },
+      {
+        "no_urut": "18",
+        "no_daftar": "486100480290912",
+        "nama": "JABBAR SUGARA",
+        "pilihan": "1",
+        "nilai_akhir": "79.67",
+        "usia": "15 th 8 bl 26",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "12:59"
+      },
+      {
+        "no_urut": "19",
+        "no_daftar": "486100480253561",
+        "nama": "AKHMAD ZHAFIF FADHILAH",
+        "pilihan": "1",
+        "nilai_akhir": "79.60",
+        "usia": "17 th 4 bl 20",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "10:03"
+      },
+      {
+        "no_urut": "20",
+        "no_daftar": "486100480295471",
+        "nama": "MUHAMMAD DWI ABADILLAH",
+        "pilihan": "1",
+        "nilai_akhir": "79.25",
+        "usia": "16 th 1 bl 11",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "13:38"
+      },
+      {
+        "no_urut": "21 21",
+        "no_daftar": "486100480194231",
+        "nama": "NOOR RAYHAN",
+        "pilihan": "1",
+        "nilai_akhir": "78.17",
+        "usia": "16 th 5 bl 20",
+        "tanggal_ujian": "25 Juni 2021",
+        "jam_ujian": "11:44"
+      },
+      {
+        "no_urut": "22",
+        "no_daftar": "486100480146141",
+        "nama": "MUHAMMAD HAKIM MAULANA",
+        "pilihan": "1",
+        "nilai_akhir": "78.10",
+        "usia": "15 th 8 bl 4",
+        "tanggal_ujian": "25 Juni 2021",
+        "jam_ujian": "09:26"
+      },
+      {
+        "no_urut": "23",
+        "no_daftar": "486100480254471",
+        "nama": "MUHAMMAD FAISAL RAHMAN",
+        "pilihan": "1",
+        "nilai_akhir": "77.29",
+        "usia": "15 th 10 bl 20",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "09:49"
+      },
+      {
+        "no_urut": "24",
+        "no_daftar": "486100480135541",
+        "nama": "AHMAD EDI SAPUTRA",
+        "pilihan": "1",
+        "nilai_akhir": "76.88",
+        "usia": "17 th 2 bl 3",
+        "tanggal_ujian": "25 Juni 2021",
+        "jam_ujian": "08:36"
+      },
+      {
+        "no_urut": "25",
+        "no_daftar": "486100480299511",
+        "nama": "TEGUH AKBAR FIRMANSYAH",
+        "pilihan": "1",
+        "nilai_akhir": "76.38",
+        "usia": "16 th 8 bl 24",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "15:26"
+      },
+      {
+        "no_urut": "26",
+        "no_daftar": "486100480271361",
+        "nama": "TATAQ SURYA NANG PENGGALIH",
+        "pilihan": "1",
+        "nilai_akhir": "75.22",
+        "usia": "15 th 4 bl 20",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "10:44"
+      },
+      {
+        "no_urut": "27",
+        "no_daftar": "486100480241591",
+        "nama": "ROYYAN MIRANDA",
+        "pilihan": "1",
+        "nilai_akhir": "74.91",
+        "usia": "16 th 3 bl 25",
+        "tanggal_ujian": "26 Juni 2021",
+        "jam_ujian": "08:43"
+      },
+      {
+        "no_urut": "28",
+        "no_daftar": "486100480212741",
+        "nama": "MUHAMMAD BAGAS KURNIAWAN",
+        "pilihan": "1",
+        "nilai_akhir": "74.62",
+        "usia": "16 th 2 bl 24",
+        "tanggal_ujian": "25 Juni 2021",
+        "jam_ujian": "13:35"
+      },
+      {
+        "no_urut": "29",
+        "no_daftar": "486100480195411",
+        "nama": "ROBBY MAULIDY",
+        "pilihan": "2",
+        "nilai_akhir": "83.23",
+        "usia": "15 th 3 bl 24 hr",
+        "waktu_ujian": "25 Juni 12:12"
+      }
+    ]
+  }
+}

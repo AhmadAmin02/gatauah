@@ -1,0 +1,246 @@
+{
+  "fields": {
+    "province": "Kalimantan Selatan",
+    "selection_type": "Reguler",
+    "school_name": "SMK NEGERI 5 BANJARMASIN",
+    "school_code": "30304286",
+    "program": "Desain Komunikasi Visual",
+    "data_status": "Sementara",
+    "selection_date": "24-26 Jun 2024",
+    "result_date": "26 Juni 2024 16:09 WITA",
+    "candidates": [
+      {
+        "no_urut": "1",
+        "no_daftar": "486100480138382",
+        "name": "KHAIRUNNISA",
+        "pilihan": "1",
+        "nilai_akhir": "89.18",
+        "usia": "15 th 8 bl 8",
+        "waktu_seleksi": "25 Jun 08:57"
+      },
+      {
+        "no_urut": "2",
+        "no_daftar": "486100480020571",
+        "name": "HASNA ALIIFAH",
+        "pilihan": "1",
+        "nilai_akhir": "87.28",
+        "usia": "15 th 8 bl 6",
+        "waktu_seleksi": "24 Jun 09:23"
+      },
+      {
+        "no_urut": "3",
+        "no_daftar": "486100480298841",
+        "name": "NURHAFIFAH APRILIA",
+        "pilihan": "1",
+        "nilai_akhir": "86.00",
+        "usia": "15 th 2 bl 14",
+        "waktu_seleksi": "26 Jun 14:07"
+      },
+      {
+        "no_urut": "4",
+        "no_daftar": "486100480190441",
+        "name": "NADIRA AULIA RAHMA",
+        "pilihan": "1",
+        "nilai_akhir": "85.97",
+        "usia": "14 th 7 bl 27",
+        "waktu_seleksi": "25 Jun 11:31"
+      },
+      {
+        "no_urut": "5",
+        "no_daftar": "486100480049552",
+        "name": "PUTRI ANANDA SARI",
+        "pilihan": "1",
+        "nilai_akhir": "85.68",
+        "usia": "14 th 10 bl 7",
+        "waktu_seleksi": "24 Jun 09:14"
+      },
+      {
+        "no_urut": "6",
+        "no_daftar": "486100480297531",
+        "name": "NURLENNI AZZAHRA",
+        "pilihan": "1",
+        "nilai_akhir": "85.56",
+        "usia": "15 th 3 bl",
+        "waktu_seleksi": "26 Jun 13:44"
+      },
+      {
+        "no_urut": "7",
+        "no_daftar": "486100480039141",
+        "name": "LATIFAH",
+        "pilihan": "1",
+        "nilai_akhir": "85.20",
+        "usia": "15 th 5 bl 8",
+        "waktu_seleksi": "24 Jun 10:10"
+      },
+      {
+        "no_urut": "8",
+        "no_daftar": "486100480020021",
+        "name": "MUHAMMAD RIZQI",
+        "pilihan": "1",
+        "nilai_akhir": "85.02",
+        "usia": "14 th 10 bl 4",
+        "waktu_seleksi": "24 Jun 08:29"
+      },
+      {
+        "no_urut": "9",
+        "no_daftar": "486100480242991",
+        "name": "KIARA NUR AZIZAH",
+        "pilihan": "1",
+        "nilai_akhir": "84.58",
+        "usia": "15 th 2 bl 29",
+        "waktu_seleksi": "26 Jun 08:53"
+      },
+      {
+        "no_urut": "10 10",
+        "no_daftar": "486100480134262",
+        "name": "MARIATUN NIDA",
+        "pilihan": "1",
+        "nilai_akhir": "84.56",
+        "usia": "16 th 8 hr",
+        "waktu_seleksi": "25 Jun 08:47"
+      },
+      {
+        "no_urut": "11",
+        "no_daftar": "486100480168732",
+        "nama": "NOR SHILA PUTRI",
+        "pilihan": "1",
+        "nilai_akhir": "84.28",
+        "usia": "15 th 14 hr",
+        "tanggal_ujian": "25 Ju",
+        "jam_ujian": "10:21"
+      },
+      {
+        "no_urut": "12 23",
+        "no_daftar": "486100480035482",
+        "nama": "ADAM SULTAN BAHTIAR RUHIAT",
+        "pilihan": "1",
+        "nilai_akhir": "83.68",
+        "usia": "15 th 6 bl 10 hr"
+      },
+      {
+        "no_urut": "13",
+        "no_daftar": "486100480173321",
+        "nama": "AURA NISA",
+        "pilihan": "1",
+        "nilai_akhir": "83.42",
+        "usia": "15 th 4 bl 1 hr"
+      },
+      {
+        "no_urut": "14",
+        "no_daftar": "486100480298481",
+        "nama": "NURLENNA AZZAHRA",
+        "pilihan": "1",
+        "nilai_akhir": "83.39",
+        "usia": "15 th 3 bl",
+        "tanggal_ujian": "26 Ju",
+        "jam_ujian": "13:57"
+      },
+      {
+        "no_urut": "15",
+        "no_daftar": "486100480299011",
+        "nama": "NUR ALISA AYU SAFITRI",
+        "pilihan": "1",
+        "nilai_akhir": "83.02",
+        "usia": "15 th 6 bl 17 hr"
+      },
+      {
+        "no_urut": "16 16",
+        "no_daftar": "486100480239341",
+        "nama": "NOR AISYAH",
+        "pilihan": "1",
+        "nilai_akhir": "82.53",
+        "usia": "14 th 8 bl 27 hr"
+      },
+      {
+        "no_urut": "17 75",
+        "no_daftar": "486100480274611",
+        "nama": "ANDY NANINRA MAULANA",
+        "pilihan": "1",
+        "nilai_akhir": "82.50",
+        "usia": "15 th 7 bl 8 hr"
+      },
+      {
+        "no_urut": "18",
+        "no_daftar": "486100480284651",
+        "nama": "M. HAISEL HALIF",
+        "pilihan": "1",
+        "nilai_akhir": "82.49",
+        "usia": "15 th 9 bl 27 hr"
+      },
+      {
+        "no_urut": "19",
+        "no_daftar": "486100480205541",
+        "nama": "JENIA ANGGRAINI",
+        "pilihan": "1",
+        "nilai_akhir": "82.49",
+        "usia": "15 th 5 bl 19 hr"
+      },
+      {
+        "no_urut": "20",
+        "no_daftar": "486100480284291",
+        "nama": "RIZKY FADILLAH",
+        "pilihan": "1",
+        "nilai_akhir": "82.32",
+        "usia": "15 th 4 bl 19 hr"
+      },
+      {
+        "no_urut": "21 21",
+        "no_daftar": "486100480197241",
+        "nama": "FATIMAH",
+        "pilihan": "1",
+        "nilai_akhir": "82.16",
+        "usia": "15 th 10 bl 24 hr",
+        "tanggal_ujian": "25 Ju",
+        "jam_ujian": "11:53"
+      },
+      {
+        "no_urut": "22",
+        "no_daftar": "486100480274281",
+        "nama": "NAJWA NUR SARI",
+        "pilihan": "1",
+        "nilai_akhir": "81.98",
+        "usia": "16 th 22 hr",
+        "tanggal_ujian": "26 Ju",
+        "jam_ujian": "11:01"
+      },
+      {
+        "no_urut": "23",
+        "no_daftar": "486100480076481",
+        "nama": "ALINI WULANDARI",
+        "pilihan": "1",
+        "nilai_akhir": "81.84",
+        "usia": "15 th 4 bl 4 hr"
+      },
+      {
+        "no_urut": "24",
+        "no_daftar": "486100480136451",
+        "nama": "NIA RAMADHANI",
+        "pilihan": "1",
+        "nilai_akhir": "81.49",
+        "usia": "14 th 10 bl 7 hr",
+        "tanggal_ujian": "25 Ju",
+        "jam_ujian": "09:02"
+      },
+      {
+        "no_urut": "25",
+        "no_daftar": "486100480088441",
+        "nama": "SYIFA AMALIA",
+        "pilihan": "1",
+        "nilai_akhir": "81.12",
+        "usia": "15 th 6 hr",
+        "tanggal_ujian": "24 Ju",
+        "jam_ujian": "13:49"
+      },
+      {
+        "no_urut": "26",
+        "no_daftar": "486100480290651",
+        "nama": "NADIRA PUTRI KHUMAIRA",
+        "pilihan": "1",
+        "nilai_akhir": "81.02",
+        "usia": "15 th 4 bl 6 hr",
+        "tanggal_ujian": "26 Ju",
+        "jam_ujian": "13:20"
+      }
+    ]
+  }
+}
